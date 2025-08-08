@@ -1,0 +1,1 @@
+// full app.js content from earlier 
